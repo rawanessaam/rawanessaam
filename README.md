@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="intro_smooth.gif" alt="intro" width="800"/>
+<img src="intro_transparent.gif" alt="intro" width="800"/>
 <!--
 **rawanessaam/rawanessaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
