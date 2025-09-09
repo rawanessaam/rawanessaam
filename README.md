@@ -2,7 +2,7 @@
 <img src="intro_transparent.gif" alt="intro" width="800"/>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/rawanessammm/">img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rawanessammm/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:rawanessam426@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
     
