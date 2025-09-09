@@ -1,5 +1,8 @@
 # Welcome to my github! 👋
-<img src="intro_transparent.gif" alt="intro" width="800"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="intro_transparent.gif" alt="intro gif" width="400"/>
+  <img src="profilee.png" alt="rawan photo" width="250"/>
+</div>
 
 ## About Me 🚀
 An **AI Junior at Helwan University**.  
